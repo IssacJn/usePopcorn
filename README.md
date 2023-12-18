@@ -28,7 +28,7 @@ Watched Movies List: Users can add and view movies they've watched, along with r
 
 ## Acknowledgements
 
--   The OMDB API - [API](www.omdbapi.com)
+-   The OMDB API - [API](https://www.omdbapi.com/)
 -   This project is a part of a Udemy course by Jonas Schmedtmann - [Course Link](https://www.udemy.com/course/the-ultimate-react-course/)
 
 ## License
